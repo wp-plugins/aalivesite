@@ -1,16 +1,50 @@
-=== Plugin Name ===
-AA Live your site
-
-Tags:livesite , aaextention
-Requires at least:4.0
+=== AA Live your site ===
+Contributors: aaextension
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ashik685%40gmail%2ecom&lc=US&item_name=Donate%20AA%20Extension%20%21&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
+Tags: aaextension,livesite , aaextention
+Requires at least:3.0
 Tested up to:4.0
-Stable tag:aaliveyoursite
-License: GPL
-Contributors :A and A
+Stable tag:1.0
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+A plugin to change urls after a migration from localhost to live or to a new domain.
+
 ==Description==
-The plugin help you to move your WordPress site localhost to Live.
-After Move the site to live , you have a problem "changes all of localhost link to live link". But by this plugin you can changes all of local link to live link . 
-Go to the option page
-In From url :Put the localhost link
-In To Url :Put the live server link
-And submit 
+
+<h5> How to use it </h5>
+
+Coming soon ..
+
+<h5> Full Tutorial </h5>
+
+Coming soon
+
+
+<strong>Version </strong><br />
+
+1.0.0
+
+
+
+
+== Installation ==
+
+1. Install as regular WordPress plugin.<br />
+2. Go your plugin setting via WordPress Dashboard and find "<strong>AA Live your site</strong>" activate it.<br />
+
+<br />
+
+
+
+== Screenshots ==
+
+Coming Soon ..
+
+== Changelog ==
+
+	
+	= 1.0 =
+    * 2/11/2014 Initial release.
+
