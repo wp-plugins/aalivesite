@@ -13,11 +13,11 @@ A plugin to change urls after a migration from localhost to live or to a new dom
 
 ==Description==
 
-<h5> How to use it </h5>
+<strong> How to use it </strong><
 
 Coming soon ..
 
-<h5> Full Tutorial </h5>
+<strong> Full Tutorial </strong><
 
 Coming soon
 
