@@ -1,10 +1,15 @@
 <?php 
-	/*
-	*	Plugin Name: AA Live your site
-	*	Author : A.R / A.M
-	*	Version:1.0
-	*	Description: A plugin that can help you to change the localhost link to live server link
-	**/
+/**
+ * Plugin Name: AA Live Your Site
+ * Plugin URI: https://wordpress.org/plugins/aalivesite/
+ * Description: A plugin to change urls after a migration from localhost to live or to a new domain. 
+ * Version: 1.0
+ * Author: A. Roy / A. Mahmud
+ * Author URI: http://webdesigncr3ator.com
+ * Support Email : contact2us.aa@gmail.com
+ * License: GPL2
+ **/
+
 	
 function aa_create_menu(){
 add_menu_page('Url Changer', 'Url Changer', 'administrator', __FILE__, 'aa_url_setting');
