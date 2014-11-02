@@ -4,7 +4,7 @@
  * Plugin URI: https://wordpress.org/plugins/aalivesite/
  * Description: A plugin to change urls after a migration from localhost to live or to a new domain. 
  * Version: 1.0
- * Author: A. Roy / A. Mahmud
+ * Author: aaextention
  * Author URI: http://webdesigncr3ator.com
  * Support Email : contact2us.aa@gmail.com
  * License: GPL2
